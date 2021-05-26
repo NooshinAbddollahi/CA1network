@@ -10,7 +10,7 @@ create FLUT[33]
 create STIN[17]
 
 
-create soma[1]
+create soma[2]
 create dendrite[70]
 create apical_dendrite[31]
 create user5[38]
